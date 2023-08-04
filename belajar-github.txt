@@ -1,4 +1,6 @@
 LEARN GITHUB
 - Belajar github selama 1 minggu
 - Buat projek tiap 2 kali
-- buat souce code
+- buat source code
+- Join Bootcamp
+- Basic Code
