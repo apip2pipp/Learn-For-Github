@@ -2,6 +2,9 @@ LEARN GITHUB
 - Belajar github selama 1 minggu
 - Buat projek tiap 2 kali
 - buat source code
+     *java
+     *Js
+     *Python
 - Join Bootcamp
-      *Hactivate
+     *Hactivate
 
